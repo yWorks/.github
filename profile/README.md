@@ -48,6 +48,8 @@ Let's build amazing diagrams together! Here are a few ways to learn more and get
 - 📘 **yFiles SDK:** [yfiles.com](https://www.yfiles.com) – Discover the yFiles SDK in depth, download a free 60-day evaluation, and access documentation.  
 - 💼 **LinkedIn:** [yWorks on LinkedIn](https://www.linkedin.com/company/yworks-gmbh/) – Follow us for updates, use cases, and industry insights.  
 - 🐦 **Twitter/X:** [@yWorks](https://twitter.com/yWorks) – Follow our official account for the latest announcements and tips.  
+- 📧 **Newsletter:** [Sign-Up](https://www.yfiles.com/newsletter) - Stay informed about yFiles, network visualization, and graph technology updates.
+- 📺 **YouTube**: [@yWorksTube](https://www.youtube.com/yworkstube) - Find tips and tricks, webinar recordings, and more about graph technology on our YouTube channel.
 - 💬 **GitHub Discussions:** Have questions or ideas? Many of our repos have a **Discussions** tab – join the conversation, ask questions, and share your feedback with us.
 
 **🚀 Get Started:** We encourage you to explore our repositories, try out yFiles for yourself, and **⭐️ star** any projects you find useful. If you have questions or want to contribute to our examples, don't hesitate to [reach out](https://www.yworks.com/contact). Together, let's create something great!
